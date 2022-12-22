@@ -1,0 +1,40 @@
+{
+  "name": "himal",
+  "version": "0.9.1",
+  "description": "A multipurpose Guilded bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grizz1e/Himal-Guilded.git"
+  },
+  "keywords": [
+    "guilded",
+    "bot",
+    "multipurpose",
+    "meme",
+    "fun",
+    "bot"
+  ],
+  "author": "Grizz1e",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Grizz1e/Himal-Guilded/issues"
+  },
+  "homepage": "https://github.com/Grizz1e/Himal-Guilded#readme",
+  "dependencies": {
+    "aki-api": "^6.0.8",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js-minesweeper": "^1.1.0",
+    "guilded.ts": "^0.20.2",
+    "he": "^1.2.0",
+    "html-to-text": "^9.0.3",
+    "mathjs": "^11.5.0",
+    "moment": "^2.29.4",
+    "quickmongo": "^5.2.0",
+    "youtube-sr": "^4.3.4"
+  }
+}

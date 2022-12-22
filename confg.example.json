@@ -1,0 +1,19 @@
+{
+    "bot": {
+        "prefix": "YOUR BOT PREFIX",
+        "token": "YOUR BOT TOKEN",
+        "log_channel": "TEXT CHANNEL WHERE YOU WANT TO LOG BOT ACTIVITIES",
+        "serverId": "BOT'S SERVER ID",
+        "premiumRoleId": "ROLE THAT YOU WANT TO SET AS PREMIUM"
+    },
+    "api": {
+        "thecatapi": "GO TO https://thecatapi.com/",
+        "whois": "GO TO https://ip2whois.com/",
+        "imgbun": "GO TO https://imgbun.com",
+        "brainshop": "GO TO https://brainshop.ai/",
+        "nasa": "GO TO https://api.nasa.gov/"
+    },
+    "mongodb": {
+        "url": "MONGODB URL"
+    }
+}
